@@ -17,7 +17,7 @@
 <tbody>
 <tr>
 <td>1</td>
-<td><a href="week_1.md">Intro to Syllabus, Course, and Each Other</a></td>
+<td><a href="week_1.html">Intro to Syllabus, Course, and Each Other</a></td>
 </tr>
 <tr>
 <td>2</td>
