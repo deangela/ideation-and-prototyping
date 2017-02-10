@@ -4,7 +4,7 @@
 
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
-*Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during the webex session.* Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
+*Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during the synchronous online class session.* Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
 
 <table>
 <thead>
