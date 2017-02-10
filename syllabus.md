@@ -1,14 +1,13 @@
-# DM-GY 6053 Ideation and Prototyping
+# DM-GY 6053 Ideation and Prototyping Tandon Online
 
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff • deangela.duff@nyu.edu 
-    Tandon Online • 3 credit hrs
     Office hours by appointment (https://calendly.com/deangela)  
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
+    Office Phone: 646 997 0718 
     
-    Prerequisite: None
+    Prerequisite: None • 3 credit hrs
 
 ####Gitbook Repository: https://deangela.gitbooks.io/ideation-and-prototyping-tandon-online/content/
 

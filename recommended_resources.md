@@ -1,5 +1,4 @@
-### DM-GY 6053 Ideation and Prototyping
-##### De Angela L. Duff • Tandon Online
+### DM-GY 6053 Ideation and Prototyping Tandon Online
 
 # Recommended Resources
 

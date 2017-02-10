@@ -1,5 +1,4 @@
-### DM-GY 6053 Ideation and Prototyping
-##### De Angela L. Duff • Tandon Online
+### DM-GY 6053 Ideation and Prototyping Tandon Online
 
 # Schedule
 
@@ -13,7 +12,7 @@
     <th width="48%">Homework (Due on Date Listed)</th>
 </tr>
 <tr>
-    <td valign="top">wk 2<p>Jan 30</p></td>
+    <td valign="top">1</td>
     <td valign="top">Class
     <ul>
     <li>Overview of Course</li>
