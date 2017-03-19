@@ -25,22 +25,22 @@
   </ul>
 </ul></td>
 
-<!-- 2nd column class -->
+<!-- 3rd column homework -->
 <td valign="top" width="48%">
 <ul>
-<li><a href="classmate_discovery.md">Classmate Discovery</a></li>
-<li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
-</li>
-<li>Watch one or both of the following and write your response(s) on your process website:</li>
-  <ul>
-  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
-  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
-  <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
-insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
-  </ul>
-
-<li>Research one or more of the following artists for inspiration and post your findings and response on your process website</li>
-<ol>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>Watch the following, write a response, and post to your process website</li>
+      <ul>
+      <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
+      <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
+      <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+      </ul>
+     <li>(OPTIONAL) Read <strong>Steal Like An Artist</strong> by Austin Kleon, write a response, and post to your process website.</li>
+      <ul>
+      <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+      </ul>
+    <li>Phase 1: Discovery / Inspiration - Research one or more of the following artists for inspiration and post your findings and response on your process website:</li>
+<ul>
 <li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
 <li>Joseph Cornell</li>
@@ -50,8 +50,11 @@ insights that occurred while watching, how it reflects your own process (or does
 <li>Christian Marclay</li>
 <li>DJ Spooky</li>
 <li>The Bomb Squad</li>
-</ol>
-</li></td>
+</ul>
+</ul>
+<li>Phase 3: Design / Sketching / Mapping: <a href="classmate_discovery.md">Classmate Discovery</a></li>
+</ul>
+</td>
 </tr>
 </table>
 
