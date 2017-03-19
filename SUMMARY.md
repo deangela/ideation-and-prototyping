@@ -5,6 +5,7 @@
 * [Schedule](schedule.md)
     * [Week 1](week_1.md)
     * [Week 2](week_2.md)
+    * [Week 3](week_3.md)
 * Assignments
     * [Inputs Map](input_map.md)
     * [Constant Input Choices](constant_input_choices.md) 
