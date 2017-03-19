@@ -22,7 +22,7 @@ Discuss
 <td valign="top"> 
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li>Watch</li>
+    <li>Watch the following, write a response, and post to your process website</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
@@ -30,8 +30,10 @@ Discuss
         </ul>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
         <ul>
-        <li>Individual Annotated Bibliography Draft</li>
-        <li>Individual Image or Text Storyboard Draft</li>
+        <li>Collect and Study Research Materials for your Creator</li>
+        <li>Draft Individual Annotated Bibliography</li>
+        <li>Draft Individual Image or Text Storyboard</li>
+        <li>Create Individual Mood Board</li>
         </ul>
     </ul>        
     </td>

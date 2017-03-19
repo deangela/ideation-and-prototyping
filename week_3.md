@@ -15,13 +15,11 @@
 <li>Discuss Everything is a Remix and Exit Through The Gift Shop</li>
 <li>Discuss Remix Artists Research</li>
 <li>Review Classmate Discoveries</li>
-<li>Brainstorm Creators in order to select teams.</li>
-  <li>
-  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
   <ul>
   <li>Exchange contact info (phone, email, address)</li>
   <li>Exchange schedules</li>
-  <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
+  <li>Discuss Collaborative Tools (Slack, Google Calendar, Google Docs, Personal Kanban, etc.)</li>
   </ul>
 </ul></td>
 
@@ -29,6 +27,7 @@
 <td valign="top" width="48%">
 <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>Slack your top 3 creators for the <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> project. You are not limited to the list provided in the previous link. The main requirement is that there is enough research material available regarding your creator's process.</li>
     <li>Watch the following, write a response, and post to your process website</li>
       <ul>
       <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></li>  
