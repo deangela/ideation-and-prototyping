@@ -12,7 +12,7 @@
 <td valign="top">3</td>
 <td valign="top">
 <ul>
-<li>Discuss Everything is a Remix</li>
+<li>Discuss Everything is a Remix and Exit Through The Gift Shop</li>
 <li>Discuss Remix Artists Research</li>
 <li>Review Classmate Discoveries</li>
 <li>Brainstorm Creators in order to select teams.</li>
@@ -28,18 +28,16 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <ul>
-  <td>
+<li><a href="classmate_discovery.md">Classmate Discovery</a></li>
+<li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
+</li>
+<li>Watch one or both of the following and write your response(s) on your process website:</li>
   <ul>
-  <li><a href="classmate_discovery.md">Classmate Discovery</a></li>
-  <li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
-  </li>
-  <li>Watch one or both of the following and write your response(s) on your process website:</li>
-      <ul>
-      <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
-      <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
-      <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  <li>Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
-      </ul>
+  </ul>
 
 <li>Research one or more of the following artists for inspiration and post your findings and response on your process website</li>
 <ol>
