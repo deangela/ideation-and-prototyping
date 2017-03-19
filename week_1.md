@@ -13,20 +13,20 @@
     <td valign="top">
     <ul>
     <li>Overview of Course</li>
-    <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
+    
     <li>Discuss</li>
       <ul>
+      <li><a href="notebook_or_sketchbook.md">Sketchbooks and Notebooks</a></li>
+      <li>Process Website</li>
+      <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
       <li>Word Lists</li>
       <li>Mind Maps</li>
       <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
+      <li>Visual Language</li> 
       <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
       <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
       <li>Studio Critique Rules. Follow <a href="" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
       </ul>
-    <li>Phase 1: Discovery / Inspiration / Process:</li>
-        <ul>
-        <li>Class Exercise: <a href="input_map.md">Input Maps</a></li>
-        </ul>
        </ul></td> 
     <td valign="top">
     <ul>

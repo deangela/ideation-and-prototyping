@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td><a href="week_3.md">Phase 1: Discovery / Inspiration / Process: Everything is a Remix</a></td>
+<td><a href="week_3.md">Phase 1: Discovery / Inspiration / Process: Everything is a Remix (So Steal Like An Artist)</a></td>
 </tr>
 <tr>
 <td>4</td>

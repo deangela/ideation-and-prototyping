@@ -17,9 +17,10 @@
 <li>Review Homework</li>
 <li>Discuss</li> 
     <ul>
-    <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
+    <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
+   
     <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
-    <li><a href="notebook_or_sketchbook.md">Notebooks and Journals</a></li>
+    
     <li><a href="recommended_resources.md">Recommended Resources</a></li>
     </ul>
 <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>

@@ -73,12 +73,12 @@ Critiques are the best way to articulate your ideas to others and get immediate 
 
 There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to five phases:
 
-**Phase 1: Discovery / Inspiration**
+**Phase 1: Discovery / Inspiration** (internal)
 
 *   Seeing, hearing, touching, tasting, smelling, feeling
 *   Collecting, obsessing, hoarding
 
-**Phase 1: Discovery / Inspiration: Steal Like An Artist**
+**Phase 1: Discovery / Inspiration: Steal Like An Artist** (external)
 
 *   Reappropriating, remixing
 
